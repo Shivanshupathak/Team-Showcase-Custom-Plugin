@@ -1,0 +1,54 @@
+
+/* Set up the grid layout */
+.team-members-container {
+display: grid !important;
+grid-template-columns: repeat(3, 1fr) !important; /* Three equal-width columns */
+grid-gap: 20px !important; /* Adjust the gap between columns */
+}
+
+/* Style for each team-member div */
+.team-member {
+    background-color: #f0f0f0 !important;
+    padding: 10px !important;
+    border: 1px solid #ccc  !important;
+    border-radius: 4px !important;
+    display: inline-block;
+    width: 30%;
+    margin-left: 27px !important;
+    margin-right: 27px !important;
+}
+.team-member-content {
+        text-align: center;
+    }
+.team-member-social-links {
+    text-align: center;
+    }
+h3 {
+text-align: center;
+}
+.fab, .far {
+        font-weight: 400;
+        padding: 10px;
+    }
+
+.load-more-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#load-more {
+    padding: 10px 20px;
+}
+        
+
+h1.entry-title {
+    text-align: center;
+    }
+.team-member-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        }
+               
+        
