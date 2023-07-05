@@ -1,13 +1,11 @@
 <?php
 /*
  * Plugin Name:Team Showcase
- * Plugin URI: https://example.com/plugins/the-basics/
  * Description: Handle the basics with this plugin.
  * Version: 1.10.3
- * Author: Shiva
+ * Author: Shivanshu Pathak
  * Text Domain: Team_showcase
  * Domain Path: /languages
- * Update URI: https://example.com/my-plugin/
  */
 
 // Register the "Our Team" custom post type
